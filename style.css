@@ -1,0 +1,16 @@
+h1 {color: brown;
+text-align: center;
+font-size:40px;
+font-family: 'Times New Roman', Times, serif;
+font-style: oblique;
+}
+h2 {color: blue;
+text-align: center;
+}
+a {color: rgba(122, 217, 39, 0.945);
+font-size: 40px;
+list-style-position: inside;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-shadow: blueviolet;
+}
+body {background: rgb(7, 65, 23);}
